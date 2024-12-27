@@ -1,39 +1,80 @@
 ---
-layout: home
-title: Just the Class
+layout: fullwidth
+title: Micromouse
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Berkeley IEEE Micromouse
 ---
 
-# Just the Class
+# Micromouse
+{:.no_toc}
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Course Info
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+The UC Berkeley IEEE Student Branch’s Micromouse DeCal is a hands-on course aimed at undergraduates with an interest in robotics. In the class, teams of ~2 students are formed to build and program autonomous, maze-solving cars that follow the standards set in IEEE’s Micromouse competition.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+The course assumes no experience and will be based around a series of labs and project milestones that cover a wide range of robotics concepts. The course will expose students to CircuitPython programming, autonomous navigation, sensors, PID, and basic electrical engineering, while preparing them for an in-class competition at the end of each semester. Teams are also provided with the opportunity to qualify for funding to attend competitions among other schools in California and neighboring states.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+All necessary parts will be provided to students at no cost.
 
-## Getting Started
+### Enrolling in HOPE
 
-Getting started with Just the Class is simple.
+The Micromouse Discord is live: https://discord.gg/FRWvxrTChh
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+This semester the Decal will take place in Giannini Hall 141 on Mondays from 5-7PM, starting DATE GO HERE. Make sure to fill out the application! https://forms.gle/y2pQK1291sDVYtzM8
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Note that the slides on this page are just for preview. They'll be updated before lecture and posted after.
 
-### Local development environment
+### Prerequisites
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+???
+
+## Course Schedule
+
+TBD
+
+CALENDAR GO HERE
+
+{% for module in site.modules %} {{ module }} {% endfor %}
+
+## Grading
+
+???
+
+### Office Hours
+
+???
+
+### Contact & Resources
+
+use the Discord server
+
+## Staff
+
+Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+
+### Instructors
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+
+### Teaching Assistants
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
