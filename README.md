@@ -19,7 +19,7 @@ The course assumes no experience and will be based around a series of labs and p
 
 All necessary parts will be provided to students at no cost.
 
-### Enrolling in HOPE
+### Enrolling in Micromouse
 
 The Micromouse Discord is live: https://discord.gg/FRWvxrTChh
 
