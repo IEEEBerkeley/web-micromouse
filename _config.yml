@@ -18,16 +18,18 @@ tagline: Berkeley Micromouse
 description: Course that teaches you a lot about stuff
 author: Kaelan Yim
 # baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://micromouse.berkie.ee' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ieeberkeley.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
-color_scheme: light
+color_scheme: wider
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  "Dark Mode":
+    - "#"
   Berkeley IEEE:
     - 'https://ieee.berkeley.edu'
 footer_content:
