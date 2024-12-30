@@ -1,5 +1,5 @@
 ---
-layout: fullwidth
+layout: page
 title: Micromouse
 nav_exclude: true
 permalink: /:path/
