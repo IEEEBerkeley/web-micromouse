@@ -17,23 +17,16 @@ All necessary parts will be provided to students at no cost.
 
 The Micromouse Discord is live: https://discord.gg/FRWvxrTChh
 
-This semester the Decal will take place in Giannini Hall 141 on Mondays from 5-7PM, starting DATE GO HERE. Make sure to fill out the application! https://forms.gle/y2pQK1291sDVYtzM8
+This semester the Decal will take place in Cory 125 on TIME , starting DATE GO HERE. Make sure to fill out the application! https://forms.gle/y2pQK1291sDVYtzM8
 
 Note that the slides on this page are just for preview. They'll be updated before lecture and posted after.
 
 ### Prerequisites
 
-???
+There are no formal class prerequisites, we will teach you all that you will need to know in order to successfully assemble and program your mouse :)
 
 
 ## Grading
 
-???
+Grading (pass / no pass) will primarily be determined by your attendance and lab checkoffs, deCals are for your enjoyment and you will get much more out of them if you attend every session.If you have any questions regarding your standing please reach out to a staff member. [add more to the policy 
 
-### Office Hours
-
-???
-
-### Contact & Resources
-
-use the Discord server

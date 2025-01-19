@@ -11,7 +11,7 @@ seo:
 # Micromouse
 {:.no_toc}
 
-**Instructors:** xyz xyz / **Lecture:** 8-10PM TuTh, ROOM
+**Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia | **Lecture:** TIME, Cory 125
 
 <table id="timeline">
     <tbody><tr>
