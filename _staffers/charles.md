@@ -1,7 +1,7 @@
 ---
-name: Harris Thai
+name: Charles Su
 role: Instructor
-photo: harris42.jpg
+photo: charles.jpg
 ---
 
 I love teaching!

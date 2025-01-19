@@ -1,7 +1,7 @@
 ---
-name: Jaythan Dao
+name: Mayra Gonzalez-Gomez
 role: Instructor
-photo: jaythan.jpeg
+photo: myra.png
 ---
 
 I love teaching!
