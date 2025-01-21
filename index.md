@@ -11,7 +11,7 @@ seo:
 # Micromouse
 {:.no_toc}
 
-**Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia \ **Lecture:** TIME, Cory 125
+**Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia \ **Lecture:** Tuesday 8-10 pm, Cory 125
 
 <table id="timeline">
     <tbody><tr>
