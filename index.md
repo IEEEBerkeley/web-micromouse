@@ -12,7 +12,7 @@ seo:
 {:.no_toc}
 
 **Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia \ **Lecture:** Tuesday 8-10 pm, Cory 125
-
+<a href="http://berkie.ee/sp25micromouse" >Interest Form </a> 
 <table id="timeline">
     <tbody><tr>
       <th style="width: 10%;">Week</th>

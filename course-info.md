@@ -28,5 +28,7 @@ There are no formal class prerequisites, we will teach you all that you will nee
 
 ## Grading
 
-Grading (pass / no pass) will primarily be determined by your attendance and lab checkoffs, deCals are for your enjoyment and you will get much more out of them if you attend every session.If you have any questions regarding your standing please reach out to a staff member. [add more to the policy 
+Grading (pass / no pass) will primarily be determined by your attendance and lab checkoffs, deCals are for your enjoyment and you will get much more out of them if you attend every session.If you have any questions regarding your standing please reach out to a staff member.
+
+
 
