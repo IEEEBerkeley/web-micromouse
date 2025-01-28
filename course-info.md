@@ -15,7 +15,7 @@ All necessary parts will be provided to students at no cost.
 
 ### Enrolling in Micromouse
 
-The Micromouse Discord is live: https://discord.gg/FRWvxrTChh
+The Micromouse Discord is live:http://berkie.ee/micromouse-discord
 
 This semester the Decal will take place in Cory 125 on TIME , starting DATE GO HERE. Make sure to fill out the application! https://forms.gle/y2pQK1291sDVYtzM8
 
