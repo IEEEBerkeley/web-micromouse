@@ -22,8 +22,8 @@ seo:
     </tr>
 <tr>
     <td>
-        <strong>1</strong> <br> 
-        Week 1
+        <strong>Week 1</strong> <br> 
+        Feb 4
     </td>
     <td style="font-weight: 600;">
         What is Micromouse?
