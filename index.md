@@ -33,7 +33,7 @@ seo:
         • Course logistics, questions
     </td>
     <td style="line-height: 30px;">
-        <a href="https://docs.google.com/presentation/d/1gJnixQioN_VyH6VOH1Nwk5fqtdwXVPTHxKBn6rzwM_A/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>  
+        <a href="https://docs.google.com/presentation/d/1G-9bEDfrUXIsCx1a3fuQ4KKwo5b7wr44FCmC3FpV6PE/edit#slide=id.p1">Slides</a> <br>  
     </td>
 </tr>
 <tr>
