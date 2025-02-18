@@ -67,7 +67,7 @@ seo:
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab2.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1qUoxUR3oLaEH-5uWJt1VJwIPnZ5mS8ZGERFUPO4T2o0/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
+        <a href="https://docs.google.com/presentation/d/17J8tbwtKV3HVj_-ob5EDbPUCww8MbZRUeEyw28Yissw/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
