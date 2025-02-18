@@ -38,8 +38,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>2</strong> <br> 
-         Week 2
+        <strong> Week 2</strong> <br> 
+         Feb 11
     </td>
     <td style="font-weight: 600;">
         Lab 1: Assembly
@@ -55,8 +55,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>3</strong> <br> 
-        Week 3
+        <strong>Week 3</strong> <br> 
+        Feb 18
     </td>
     <td style="font-weight: 600;">
         Lab 2: Assembly
@@ -72,8 +72,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>5</strong> <br> 
-        Week 4
+        <strong>Week 4</strong> <br> 
+        Feb 25
     </td>
     <td style="font-weight: 600;">
         Buffer Week
@@ -85,8 +85,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>6</strong> <br> 
-        10/10
+        <strong>Week 5</strong> <br> 
+        March 4
     </td>
     <td style="font-weight: 600;">
         Lab 3: IR Sensors
@@ -102,8 +102,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>7</strong> <br> 
-        10/17
+        <strong>Week 6</strong> <br> 
+        March 11
     </td>
     <td style="font-weight: 600;">
         Lab 4: Encoders
@@ -120,8 +120,8 @@ seo:
 
 <tr>
     <td>
-        <strong>8</strong> <br> 
-        10/24
+        <strong>Week 7</strong> <br> 
+        March 18
     </td>
     <td style="font-weight: 600;">
         Lab 5: Odometry and Motor Control
@@ -137,8 +137,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>9</strong> <br> 
-        10/31
+        <strong>Week 8</strong> <br> 
+        March 25
     </td>
     <td style="font-weight: 600;">
         Buffer Week
@@ -150,8 +150,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>10</strong> <br> 
-        11/7
+        <strong>Week 9</strong> <br> 
+        April 1
     </td>
     <td style="font-weight: 600;">
         Lab 6: Intro to PID
@@ -166,8 +166,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>11</strong> <br> 
-        11/14
+        <strong>Week 10</strong> <br> 
+        April 8
     </td>
     <td style="font-weight: 600;">
         Lab 7: More PID
@@ -183,8 +183,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>12</strong> <br> 
-        11/21
+        <strong>Week 11</strong> <br> 
+        April 15
     </td>
     <td style="font-weight: 600;">
         Buffer Week 
@@ -196,8 +196,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>13</strong> <br> 
-        11/28
+        <strong>Week 12</strong> <br> 
+        April 22
     </td>
     <td style="font-weight: 600;">
         Maze Solving (Optional)
@@ -212,8 +212,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>14</strong> <br> 
-        12/5
+        <strong>Week 13</strong> <br> 
+        April 29
     </td>
     <td style="font-weight: 600;">
         RRR Week - Class Competition or Showcase (TBD)
