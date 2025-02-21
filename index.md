@@ -141,7 +141,7 @@ seo:
         March 25
     </td>
     <td style="font-weight: 600;">
-        Buffer Week
+        SPRING BREAK
     </td>
     <td style="text-align: left; line-height: 30px;">
     </td>
@@ -187,7 +187,7 @@ seo:
         April 15
     </td>
     <td style="font-weight: 600;">
-        Buffer Week 
+        Buffer Week ?
     </td>
     <td style="text-align: left; line-height: 30px;">
     </td>
