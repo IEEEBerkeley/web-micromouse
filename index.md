@@ -11,8 +11,10 @@ seo:
 # Micromouse
 {:.no_toc}
 
-**Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia \ **Lecture:** Tuesday 8-10 pm, Cory 125
-<a href="http://berkie.ee/sp25micromouse" >Interest Form </a> 
+**Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia
+<br>
+**Lecture:** Tuesday 8-10 pm, Cory 125
+ 
 <table id="timeline">
     <tbody><tr>
       <th style="width: 10%;">Week</th>
@@ -89,11 +91,11 @@ seo:
         March 4
     </td>
     <td style="font-weight: 600;">
-        Lab 3: IR Sensors
+        Lab 3: Encoders
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • ADC readings <br>
-        • Sensor calibration
+        • Hall effect sensors<br>
+        • Polling vs. interrupts
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab4.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
@@ -106,11 +108,11 @@ seo:
         March 11
     </td>
     <td style="font-weight: 600;">
-        Lab 4: Encoders
+        Lab 4: IR Sensors
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Hall effect sensors<br>
-        • Polling vs. interrupts
+        • ADC readings <br>
+        • Sensor calibration
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab3.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
