@@ -14,6 +14,8 @@ seo:
 **Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia
 <br>
 **Lecture:** Tuesday 8-10 pm, Cory 125
+<br>
+**GitHub Link (Labs):** <a href="https://github.com/charlessu800/MMv3/blob/main/docs/sanity.md"> Link </a>
  
 <table id="timeline">
     <tbody><tr>
