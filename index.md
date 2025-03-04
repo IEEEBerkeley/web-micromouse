@@ -100,8 +100,8 @@ seo:
         • Polling vs. interrupts
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab4.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1QOgGj94Qtc-vojikXCFax0h_ZkgVO9A7CP_z_T9e9Ro/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab3.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/1K-QloCbwE4FLP0DOvIL4pT_rOTX5n5soy-6r5Pd3Yes/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ seo:
         • Sensor calibration
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab3.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
+        <a href="https://github.com/charlessu800/MMv3/tree/main/docs">Lab Doc</a> <br>
         <a href="https://docs.google.com/presentation/d/1r0fS3DSqBNB3IV06WsX_8IgtdZjKdJZsppUzETfNgyo/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
     </td>
 </tr>
