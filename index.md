@@ -16,6 +16,8 @@ seo:
 **Lecture:** Tuesday 8-10 pm, Cory 125
 <br>
 **GitHub Link (Labs):** <a href="https://github.com/charlessu800/MMv3/blob/main/docs/sanity.md"> Link </a>
+
+**Email:** micromouse (at) ieee (dot) berkeley (dot) edu
  
 <table id="timeline">
     <tbody><tr>
