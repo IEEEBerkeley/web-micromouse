@@ -120,7 +120,7 @@ seo:
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/tree/main/docs">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1r0fS3DSqBNB3IV06WsX_8IgtdZjKdJZsppUzETfNgyo/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
+        <a href="https://docs.google.com/presentation/d/116O8tAz0COpeZ4WAAy6xwB7Yzjufhueh5zSPew2Jap4/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 
