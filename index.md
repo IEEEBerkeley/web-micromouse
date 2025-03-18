@@ -119,8 +119,8 @@ seo:
         • Sensor calibration
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/charlessu800/MMv3/tree/main/docs">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/116O8tAz0COpeZ4WAAy6xwB7Yzjufhueh5zSPew2Jap4/edit?usp=sharing">Slides</a> <br>
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab4.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/10Gd2u_v_KhrPfnodQYgbqAxb77-FJ_kxEJktf3RjP5M/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 
@@ -130,14 +130,14 @@ seo:
         March 18
     </td>
     <td style="font-weight: 600;">
-        Lab 5: Odometry and Motor Control
+        Lab 5: IR & Odometry and Motor Control
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Linear and angular distance <br>
         • Spin those motors
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab5.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab5.md">Lab Doc</a> <br>
         <a href="https://docs.google.com/presentation/d/1oyLvJ8mhk3Txk2j1oAR9Ba-Zz2W-EWSmVx5LIjGz39c/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
     </td>
 </tr>
