@@ -166,8 +166,8 @@ seo:
         • The 'P' in PID
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab6.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1KuNfeeo2v7WIGFu0v3bOEg7Awjb6QloYmIUsKLJktyA/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab6.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/1tfSfUSp-4x9OyfYpw8PQoGqC3pKBapEwDu0HmKMqdmY/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -183,8 +183,8 @@ seo:
         • Wall following and turning
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab7.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1KuNfeeo2v7WIGFu0v3bOEg7Awjb6QloYmIUsKLJktyA/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab7.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/1tfSfUSp-4x9OyfYpw8PQoGqC3pKBapEwDu0HmKMqdmY/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
