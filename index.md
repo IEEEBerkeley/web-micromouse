@@ -138,7 +138,7 @@ seo:
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab5.md">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1oyLvJ8mhk3Txk2j1oAR9Ba-Zz2W-EWSmVx5LIjGz39c/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
+        <a href="https://docs.google.com/presentation/d/1OratanlcQN2Y8AOR1kyuvIxo5AuuJmuoRlEvZ5X6LIg/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ seo:
         • Flood fill algorithm or whatever you come up with!
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab8.md?ref=ieee.berkeley.edu">Lab Doc (WIP)</a> <br>
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/">Lab Doc (WIP)</a> <br>
         <a href="https://docs.google.com/presentation/d/1kpQOKmRSZPqaVDt8x-6KocQmcwZ5cRTsnoYlqbYguBQ/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
     </td>
 </tr>
