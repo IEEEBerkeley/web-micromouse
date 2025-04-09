@@ -193,9 +193,10 @@ seo:
         April 15
     </td>
     <td style="font-weight: 600;">
-        Buffer Week ?
+        Catch up session/finishing the course strong !
     </td>
     <td style="text-align: left; line-height: 30px;">
+        Use this time to work on your mouse and receive help from staff.
     </td>
     <td style="line-height: 30px;">
     </td>
