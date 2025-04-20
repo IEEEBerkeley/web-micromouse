@@ -207,7 +207,7 @@ seo:
         April 22
     </td>
     <td style="font-weight: 600;">
-        Maze Solving (Optional)
+        Maze Solving / Finishing up
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Flood fill algorithm or whatever you come up with!
