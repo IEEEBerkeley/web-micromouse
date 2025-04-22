@@ -17,6 +17,7 @@ title: Micromouse
 tagline: Berkeley Micromouse
 description: Course that teaches you a lot about stuff
 author: Kaelan Yim
+favicon_ico: "/assets/images/placeholder.png"
 # baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://ieeberkeley.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
