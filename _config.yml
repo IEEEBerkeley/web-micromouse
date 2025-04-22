@@ -21,6 +21,7 @@ favicon_ico: "/assets/images/placeholder.png"
 # baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://ieeberkeley.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+logo: "/assets/images/placeholder.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
