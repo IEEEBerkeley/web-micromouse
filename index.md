@@ -7,8 +7,9 @@ seo:
   type: Course
   name: Berkeley IEEE Micromouse
 ---
-
+<img align="right" alt="IEEE logo" width="15%" style="min-width: 80px;top: 2px; margin-left: 2px;" src="/assets/images/placeholder.png">
 # Micromouse
+
 {:.no_toc}
 
 **Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia
@@ -19,6 +20,7 @@ seo:
 
 **Email:** micromouse (at) ieee (dot) berkeley (dot) edu
  
+
 <table id="timeline">
     <tbody><tr>
       <th style="width: 10%;">Week</th>
