@@ -6,7 +6,7 @@ description: Course info
 ---
 
 # Course Information
-Contact: micromouse@ieee.berkeley.edu
+<b>Contact</b>: micromouse@ieee.berkeley.edu
 
 The UC Berkeley IEEE Student Branch’s Micromouse DeCal is a hands-on course aimed at undergraduates with an interest in robotics. In the class, teams of ~2 students are formed to build and program autonomous, maze-solving cars that follow the standards set in IEEE’s Micromouse competition.
 
