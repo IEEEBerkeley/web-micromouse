@@ -26,7 +26,7 @@ All necessary parts will be provided to students at no cost.
 Interested in joining us next semester? Be on the lookout for us on the decal page 
 
 ### Prerequisites
-
+The Micromouse Discord is live:http://berkie.ee/micromouse-discord
 There are no formal class prerequisites, we will teach you all that you will need to know in order to successfully assemble and program your mouse :)
 
 
