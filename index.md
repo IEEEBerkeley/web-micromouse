@@ -12,14 +12,13 @@ seo:
 
 {:.no_toc}
 
-**Instructors:** Harris Thai, Mayra Gonzalez-Gomez, Charles Su, Isaiah Tapia
+**Facilitators:** Louie Labata, Isaiah Tapia, Charles Su
 <br>
-**Lecture:** Tuesday 8-10 pm, Cory 125
+**Lecture:** Monday 8-10 pm, Cory 125
 <br>
 **GitHub Link (Labs):** <a href="https://github.com/charlessu800/MMv3/blob/main/docs/sanity.md"> Link </a>
 
-**Email:** micromouse (at) ieee (dot) berkeley (dot) edu
- 
+**INTEREST FORM:** <a href="https://forms.gle/gboG43HJqxcvvbTJ6"> Link</a>
 
 <table id="timeline">
     <tbody><tr>
@@ -31,14 +30,15 @@ seo:
 <tr>
     <td>
         <strong>Week 1</strong> <br> 
-        Feb 4
+        Sep 8
     </td>
     <td style="font-weight: 600;">
-        What is Micromouse?
+        Introduction to Micromouse
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Tournament video, rules <br>
-        • Course logistics, questions
+        • Team Forming <br>
+        • Course logistics, questions <br>
+        • Primer on what to expect of this course.
     </td>
     <td style="line-height: 30px;">
         <a href="https://docs.google.com/presentation/d/1G-9bEDfrUXIsCx1a3fuQ4KKwo5b7wr44FCmC3FpV6PE/edit#slide=id.p1">Slides</a> <br>  
@@ -47,10 +47,10 @@ seo:
 <tr>
     <td>
         <strong> Week 2</strong> <br> 
-         Feb 11
+         Sep 15
     </td>
     <td style="font-weight: 600;">
-        Lab 1: Assembly
+        Lab 1: Assembly (SMD)
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Assemble the robot!<br>
@@ -64,14 +64,14 @@ seo:
 <tr>
     <td>
         <strong>Week 3</strong> <br> 
-        Feb 18
+        Sep 22
     </td>
     <td style="font-weight: 600;">
-        Lab 2: Assembly
+        Lab 2: Assembly (Through Hole Components)
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Assemble the robot!<br>
-        • Learn how to use a reflow oven
+        • Learn how to use a soldering iron <br>
+        • LEDs, Battery Connectors, Headers, and Motors Driver assembly. 
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/MrCroesus/MMv3/blob/main/docs/lab2.md?ref=ieee.berkeley.edu">Lab Doc</a> <br>
@@ -81,12 +81,13 @@ seo:
 <tr>
     <td>
         <strong>Week 4</strong> <br> 
-        Feb 25
+        Sep 29
     </td>
     <td style="font-weight: 600;">
-        Buffer Week
+        Lab Check Off #1 (Assembly)
     </td>
     <td style="text-align: left; line-height: 30px;">
+         We’ll use this day to finish assembly or any other bumps in the road we may encounter
     </td>
     <td style="line-height: 30px;">
     </td>
@@ -94,14 +95,15 @@ seo:
 <tr>
     <td>
         <strong>Week 5</strong> <br> 
-        March 4
+        Oct 6
     </td>
     <td style="font-weight: 600;">
         Lab 3: Encoders
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Hall effect sensors<br>
-        • Polling vs. interrupts
+        • Polling vs. interrupts <br>
+        • Learn the purpose of encoders
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab3.md">Lab Doc</a> <br>
@@ -111,7 +113,7 @@ seo:
 <tr>
     <td>
         <strong>Week 6</strong> <br> 
-        March 11
+        Oct 13
     </td>
     <td style="font-weight: 600;">
         Lab 4: IR Sensors
@@ -129,7 +131,7 @@ seo:
 <tr>
     <td>
         <strong>Week 7</strong> <br> 
-        March 18
+        Oct 20
     </td>
     <td style="font-weight: 600;">
         Lab 5: IR & Odometry and Motor Control
@@ -146,12 +148,14 @@ seo:
 <tr>
     <td>
         <strong>Week 8</strong> <br> 
-        March 25
+        Oct 27
     </td>
     <td style="font-weight: 600;">
-        SPRING BREAK
+        • Lab Check Off #2 (Encoders / IR Sensors) <br>
+        • Lab Check Off #3 (Odometry)
     </td>
     <td style="text-align: left; line-height: 30px;">
+        Work & Check off day
     </td>
     <td style="line-height: 30px;">
     </td>
@@ -159,7 +163,7 @@ seo:
 <tr>
     <td>
         <strong>Week 9</strong> <br> 
-        April 1
+        Nov 3
     </td>
     <td style="font-weight: 600;">
         Lab 6: Intro to PID
@@ -175,7 +179,7 @@ seo:
 <tr>
     <td>
         <strong>Week 10</strong> <br> 
-        April 8
+        Nov 10
     </td>
     <td style="font-weight: 600;">
         Lab 7: More PID
@@ -192,10 +196,10 @@ seo:
 <tr>
     <td>
         <strong>Week 11</strong> <br> 
-        April 15
+        Nov 24 
     </td>
     <td style="font-weight: 600;">
-        Catch up session/finishing the course strong !
+        (Optional): Catch up session/finishing the course strong !
     </td>
     <td style="text-align: left; line-height: 30px;">
         Use this time to work on your mouse and receive help from staff.
@@ -206,7 +210,7 @@ seo:
 <tr>
     <td>
         <strong>Week 12</strong> <br> 
-        April 22
+        Dec 1
     </td>
     <td style="font-weight: 600;">
         Maze Solving / Finishing up
@@ -222,14 +226,17 @@ seo:
 <tr>
     <td>
         <strong>Week 13</strong> <br> 
-        April 29
+        Dec 8
     </td>
     <td style="font-weight: 600;">
-        RRR Week - Class Competition or Showcase (TBD)
+        Mouse Completion
     </td>
     <td style="text-align: left; line-height: 30px;">
+    We check to see if you have either finished or made satisfactory
+    progress towards completing your mouse
     </td>
     <td style="line-height: 30px;">
+        Thank You ! &#x1F401;
     </td>
 </tr>
 </tbody></table>
