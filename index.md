@@ -12,7 +12,7 @@ seo:
 
 {:.no_toc}
 
-**Facilitators:** Louie Labata, Isaiah Tapia, Charles Su
+**Staff:** Louie Labata, Isaiah Tapia, Charles Su, Sophia Quach, Zach Szeto 
 <br>
 **Lecture:** Monday 8-10 pm, Cory 125
 <br>
