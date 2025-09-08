@@ -1,8 +1,8 @@
 ---
-name: Charles Su | Co-director
+name: Charles Su | Umbrella
 role: Instructor
 photo: charles.jpg
-email: charlessu800@
+email:
 ---
 
-EECS 3rd year. Interested in the Analog and RF side of EE. I enjoy cosplaying and cooking in my spare time!  
+EECS 4th year. Interested in the Analog and RF side of EE. I enjoy cosplaying and cooking in my spare time!  
