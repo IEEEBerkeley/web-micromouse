@@ -136,15 +136,12 @@ seo:
         Oct 20
     </td>
     <td style="font-weight: 600;">
-        Lab 5: IR & Odometry and Motor Control
+        Lab Check Off #2 (Encoders / IR Sensors)
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Linear and angular distance <br>
-        • Spin those motors
+         Work & Check off day
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab5.md">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1OratanlcQN2Y8AOR1kyuvIxo5AuuJmuoRlEvZ5X6LIg/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -153,13 +150,15 @@ seo:
         Oct 27
     </td>
     <td style="font-weight: 600;">
-        • Lab Check Off #2 (Encoders / IR Sensors) <br>
-        • Lab Check Off #3 (Odometry)
+        Lab 5: Motor Control
     </td>
     <td style="text-align: left; line-height: 30px;">
-        Work & Check off day
+        • Linear and angular distance <br>
+        • Spin those motors
     </td>
     <td style="line-height: 30px;">
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab5.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/1OratanlcQN2Y8AOR1kyuvIxo5AuuJmuoRlEvZ5X6LIg/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -215,10 +214,11 @@ seo:
         Dec 1
     </td>
     <td style="font-weight: 600;">
-        Maze Solving / Finishing up
+        Mouse Check up
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Flood fill algorithm or whatever you come up with!
+        We check to see if you have either finished or made satisfactory
+        progress towards completing your mouse
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/">Lab Doc (WIP)</a> <br>
@@ -231,11 +231,10 @@ seo:
         Dec 8
     </td>
     <td style="font-weight: 600;">
-        Mouse Completion
+        RRR Week -> 🧀 
     </td>
     <td style="text-align: left; line-height: 30px;">
-    We check to see if you have either finished or made satisfactory
-    progress towards completing your mouse
+        TBD
     </td>
     <td style="line-height: 30px;">
         Thank You ! &#x1F401;
