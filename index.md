@@ -18,9 +18,9 @@ seo:
 <br>
 **GitHub Link (Labs):** <a href="https://github.com/charlessu800/MMv3/blob/main/docs/sanity.md"> Link </a>
 
-**INTEREST FORM:** <a href="https://forms.gle/gboG43HJqxcvvbTJ6"> Link</a>
+**INTEREST FORM:** <a href="https://forms.gle/GN33aFUJCPSJmS6M8"> Link</a>
 
-**Staff Application:** <a href="https://forms.gle/wWjesceZFZvUqwca7"> Link</a>
+**Staff Application:** <a href="https://forms.gle/fY5SgzyuTSFPuc7o7"> Link</a>
 
 <table id="timeline">
     <tbody><tr>
