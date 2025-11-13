@@ -194,15 +194,35 @@ seo:
         <a href="https://docs.google.com/presentation/d/1QUD__i2f9JUdmt0zgGZVfsmHjdTC7a54VCtsY5zDebQ/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
+
 <tr>
     <td>
         <strong>Week 11</strong> <br> 
+        Nov 17
+    </td>
+    <td style="font-weight: 600;">
+        Lab 7: More PID
+    </td>
+    <td style="text-align: left; line-height: 30px;">
+        • The rest of PID <br>
+        • Wall following and turning
+    </td>
+    <td style="line-height: 30px;">
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab7.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/1QUD__i2f9JUdmt0zgGZVfsmHjdTC7a54VCtsY5zDebQ/edit?usp=sharing">Slides</a> <br>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <strong>Week 12</strong> <br> 
         Nov 24 
     </td>
     <td style="font-weight: 600;">
-        (Optional): Catch up session/finishing the course strong !
+        PID Labs Check Off 
     </td>
     <td style="text-align: left; line-height: 30px;">
+        Get checked off for the PID lab
         Use this time to work on your mouse and receive help from staff.
     </td>
     <td style="line-height: 30px;">
@@ -210,7 +230,7 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 12</strong> <br> 
+        <strong>Week 13</strong> <br> 
         Dec 1
     </td>
     <td style="font-weight: 600;">
@@ -227,7 +247,7 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 13</strong> <br> 
+        <strong>Week 14</strong> <br> 
         Dec 8
     </td>
     <td style="font-weight: 600;">
