@@ -201,7 +201,7 @@ seo:
         Nov 17
     </td>
     <td style="font-weight: 600;">
-        Lab Checkoff #3/4: Odometry / PID Labs Check Off
+        Lab Checkoff #3: Odometry / PID Labs
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Finish PID
