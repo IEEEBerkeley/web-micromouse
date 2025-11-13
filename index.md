@@ -201,11 +201,11 @@ seo:
         Nov 17
     </td>
     <td style="font-weight: 600;">
-        Lab 7: More PID
+        Odometry / PID Labs Check Off
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • The rest of PID <br>
-        • Wall following and turning
+        • Finish PID
+        • Start maze solving / experimenting with your mouse.
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab7.md">Lab Doc</a> <br>
@@ -219,12 +219,11 @@ seo:
         Nov 24 
     </td>
     <td style="font-weight: 600;">
-        PID Labs Check Off 
+        (Optional: Work session)  
     </td>
     <td style="text-align: left; line-height: 30px;">
-        Get checked off for the PID lab
-        Use this time to work on your mouse and receive help from staff.
     </td>
+        🍂 Happy Thanksgiving week 🍂
     <td style="line-height: 30px;">
     </td>
 </tr>
