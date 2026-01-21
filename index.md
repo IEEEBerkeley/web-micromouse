@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Micromouse
+title: Micromouse Spring 26
 nav_exclude: true
 permalink: /:path/
 seo:
