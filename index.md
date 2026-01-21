@@ -32,7 +32,7 @@ seo:
 <tr>
     <td>
         <strong>Week 1</strong> <br> 
-        Sep 8
+        Feb 2
     </td>
     <td style="font-weight: 600;">
         Introduction to Micromouse
@@ -49,7 +49,7 @@ seo:
 <tr>
     <td>
         <strong> Week 2</strong> <br> 
-         Sep 15
+         Feb 9
     </td>
     <td style="font-weight: 600;">
         Lab 1: Assembly (SMD)
@@ -66,7 +66,7 @@ seo:
 <tr>
     <td>
         <strong>Week 3</strong> <br> 
-        Sep 22
+        Feb 16
     </td>
     <td style="font-weight: 600;">
         Lab 2: Assembly (Through Hole Components)
@@ -83,7 +83,7 @@ seo:
 <tr>
     <td>
         <strong>Week 4</strong> <br> 
-        Sep 29
+        Feb 23
     </td>
     <td style="font-weight: 600;">
         Lab Check Off #1 (Assembly)
@@ -97,7 +97,7 @@ seo:
 <tr>
     <td>
         <strong>Week 5</strong> <br> 
-        Oct 6
+        March 2
     </td>
     <td style="font-weight: 600;">
         Lab 3: Encoders
@@ -115,7 +115,7 @@ seo:
 <tr>
     <td>
         <strong>Week 6</strong> <br> 
-        Oct 13
+        March 9
     </td>
     <td style="font-weight: 600;">
         Lab 4: IR Sensors
@@ -133,7 +133,7 @@ seo:
 <tr>
     <td>
         <strong>Week 7</strong> <br> 
-        Oct 20
+        March 16
     </td>
     <td style="font-weight: 600;">
         Lab Check Off #2 (Encoders / IR Sensors)
@@ -147,7 +147,7 @@ seo:
 <tr>
     <td>
         <strong>Week 8</strong> <br> 
-        Oct 27
+        March 23
     </td>
     <td style="font-weight: 600;">
         Lab 5: Motor Control
@@ -164,7 +164,7 @@ seo:
 <tr>
     <td>
         <strong>Week 9</strong> <br> 
-        Nov 3
+        March 30
     </td>
     <td style="font-weight: 600;">
         Lab 6: Intro to PID
@@ -180,7 +180,7 @@ seo:
 <tr>
     <td>
         <strong>Week 10</strong> <br> 
-        Nov 10
+        April 6
     </td>
     <td style="font-weight: 600;">
         Lab 7: More PID
@@ -198,7 +198,7 @@ seo:
 <tr>
     <td>
         <strong>Week 11</strong> <br> 
-        Nov 17
+        April 13
     </td>
     <td style="font-weight: 600;">
         Lab Checkoff #3: Odometry / PID Labs
@@ -216,7 +216,7 @@ seo:
 <tr>
     <td>
         <strong>Week 12</strong> <br> 
-        Nov 24 
+        April 20
     </td>
     <td style="font-weight: 600;">
         (Optional: Work session)  
@@ -230,7 +230,7 @@ seo:
 <tr>
     <td>
         <strong>Week 13</strong> <br> 
-        Dec 1
+        April 27
     </td>
     <td style="font-weight: 600;">
         Mouse Check up
@@ -247,7 +247,7 @@ seo:
 <tr>
     <td>
         <strong>Week 14</strong> <br> 
-        Dec 8
+        May 4
     </td>
     <td style="font-weight: 600;">
         RRR Week -> 🧀 
