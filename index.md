@@ -43,7 +43,7 @@ seo:
         • Primer on what to expect of this course.
     </td>
     <td style="line-height: 30px;">
-        <a href="https://docs.google.com/presentation/d/1xGzrLWi1niyio3hvdXdjZkC41SIbjsdoTLN_LB1kNfw/edit?usp=sharing">Slides</a> <br>  
+        <a href="https://docs.google.com/presentation/d/1yX27kQ64LYwUjZsiS50AyI3YBGKxtM2W1BGrRwtH468/edit?usp=sharing">Slides</a> <br>  
     </td>
 </tr>
 <tr>
