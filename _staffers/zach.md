@@ -1,5 +1,5 @@
 ---
-name: Zach Szeto
+name: Zach Szeto | Co-director
 role: Instructor
 photo: placeholder.png
 email:

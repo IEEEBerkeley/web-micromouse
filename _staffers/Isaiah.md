@@ -1,5 +1,5 @@
 ---
-name: Isaiah Tapia | Co-director
+name: Isaiah Tapia 
 role: Instructor
 photo: placeholder.png
 email: isaiahtapia@

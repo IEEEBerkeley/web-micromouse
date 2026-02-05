@@ -1,5 +1,5 @@
 ---
-name: LJ Labata | Co-director
+name: LJ Labata 
 role: Instructor
 photo: placeholder.png
 email: louiejoshualabata@
