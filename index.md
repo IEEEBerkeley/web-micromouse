@@ -77,7 +77,7 @@ seo:
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab2.md">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1OyoO-kuG5n8fUYBMhKk7qhuErxL5l4XXkJJL8SktB6w/edit?usp=sharing">Slides</a> <br>
+        <a href="https://docs.google.com/presentation/d/18PcpWdjSsx5vSzpMiWOtZgXrEPLWzCcOO7Qxu4pJAfo/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
