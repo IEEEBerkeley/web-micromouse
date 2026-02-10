@@ -116,7 +116,7 @@ seo:
         March 9
     </td>
     <td style="font-weight: 600;">
-         Lab 3: Encoders
+         Lab 4: IR Sensors
     </td>
     <td style="text-align: left; line-height: 30px;">
         • ADC readings <br>
@@ -134,10 +134,11 @@ seo:
         March 16
     </td>
     <td style="font-weight: 600;">
-         Lab 4: IR Sensors
+         Lab 5: Motor Control
     </td>
     <td style="text-align: left; line-height: 30px;">
-         Work & Check off day
+         • Linear and angular distance
+         • Spin those motors
     </td>
     <td style="line-height: 30px;">
     </td>
@@ -148,15 +149,11 @@ seo:
         March 23
     </td>
     <td style="font-weight: 600;">
-         Lab Check Off #2 (Encoders / IR Sensors)
+         Spring Break
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Linear and angular distance <br>
-        • Spin those motors
     </td>
     <td style="line-height: 30px;">
-        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab5.md">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1OratanlcQN2Y8AOR1kyuvIxo5AuuJmuoRlEvZ5X6LIg/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -165,7 +162,7 @@ seo:
         March 30
     </td>
     <td style="font-weight: 600;">
-        Lab 5: Motor Control
+        Lab 6: Intro to PID
     </td>
     <td style="text-align: left; line-height: 30px;">
         • The 'P' in PID
@@ -181,7 +178,7 @@ seo:
         April 6
     </td>
     <td style="font-weight: 600;">
-        Lab 6: Intro to PID
+         Lab 7: More PID
     </td>
     <td style="text-align: left; line-height: 30px;">
         • The rest of PID
@@ -199,7 +196,7 @@ seo:
         April 13
     </td>
     <td style="font-weight: 600;">
-         Lab 7: More PID
+        Lab Checkoff #3: Odometry / PID Labs
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Finish PID 
@@ -217,12 +214,10 @@ seo:
         April 20
     </td>
     <td style="font-weight: 600;">
-        Lab Checkoff #3: Odometry / PID Labs
+        Lab 8 Tentative
     </td>
     <td style="text-align: left; line-height: 30px;">
     </td>
-        • Finish PID
-        • Start maze solving / experimenting with your mouse.
     <td style="line-height: 30px;">
     </td>
 </tr>
