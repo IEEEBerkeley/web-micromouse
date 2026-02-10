@@ -98,7 +98,7 @@ seo:
         March 2
     </td>
     <td style="font-weight: 600;">
-        Lab 3: Encoders
+          Lab 3: Encoders
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Hall effect sensors<br>
@@ -116,7 +116,7 @@ seo:
         March 9
     </td>
     <td style="font-weight: 600;">
-        Lab 4: IR Sensors
+         Lab 3: Encoders
     </td>
     <td style="text-align: left; line-height: 30px;">
         • ADC readings <br>
@@ -134,7 +134,7 @@ seo:
         March 16
     </td>
     <td style="font-weight: 600;">
-        Lab Check Off #2 (Encoders / IR Sensors)
+         Lab 4: IR Sensors
     </td>
     <td style="text-align: left; line-height: 30px;">
          Work & Check off day
@@ -148,7 +148,7 @@ seo:
         March 23
     </td>
     <td style="font-weight: 600;">
-        Lab 5: Motor Control
+         Lab Check Off #2 (Encoders / IR Sensors)
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Linear and angular distance <br>
@@ -165,7 +165,7 @@ seo:
         March 30
     </td>
     <td style="font-weight: 600;">
-        Lab 6: Intro to PID
+        Lab 5: Motor Control
     </td>
     <td style="text-align: left; line-height: 30px;">
         • The 'P' in PID
@@ -181,10 +181,10 @@ seo:
         April 6
     </td>
     <td style="font-weight: 600;">
-        Lab 7: More PID
+        Lab 6: Intro to PID
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • The rest of PID <br>
+        • The rest of PID
         • Wall following and turning
     </td>
     <td style="line-height: 30px;">
@@ -199,10 +199,10 @@ seo:
         April 13
     </td>
     <td style="font-weight: 600;">
-        Lab Checkoff #3: Odometry / PID Labs
+         Lab 7: More PID
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Finish PID
+        • Finish PID 
         • Start maze solving / experimenting with your mouse.
     </td>
     <td style="line-height: 30px;">
@@ -217,11 +217,12 @@ seo:
         April 20
     </td>
     <td style="font-weight: 600;">
-        (Optional: Work session)  
+        Lab Checkoff #3: Odometry / PID Labs
     </td>
     <td style="text-align: left; line-height: 30px;">
     </td>
-        🍂 Happy Thanksgiving week 🍂
+        • Finish PID
+        • Start maze solving / experimenting with your mouse.
     <td style="line-height: 30px;">
     </td>
 </tr>
