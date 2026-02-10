@@ -66,7 +66,14 @@ seo:
 <tr>
     <td>
         <strong>Week 3</strong> <br> 
-        Feb 16
+        Feb 16 Presidents Day
+    </td>
+    
+</tr>
+<tr>
+    <td>
+        <strong>Week 4</strong> <br> 
+        Feb 23
     </td>
     <td style="font-weight: 600;">
         Lab 2: Assembly (Through Hole Components)
@@ -78,20 +85,6 @@ seo:
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab2.md">Lab Doc</a> <br>
         <a href="https://docs.google.com/presentation/d/1OyoO-kuG5n8fUYBMhKk7qhuErxL5l4XXkJJL8SktB6w/edit?usp=sharing">Slides</a> <br>
-    </td>
-</tr>
-<tr>
-    <td>
-        <strong>Week 4</strong> <br> 
-        Feb 23
-    </td>
-    <td style="font-weight: 600;">
-        Lab Check Off #1 (Assembly)
-    </td>
-    <td style="text-align: left; line-height: 30px;">
-         We’ll use this day to finish assembly or any other bumps in the road we may encounter
-    </td>
-    <td style="line-height: 30px;">
     </td>
 </tr>
 <tr>
