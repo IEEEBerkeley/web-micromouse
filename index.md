@@ -22,6 +22,8 @@ seo:
 
 **Staff Application:** <a href="https://forms.gle/fY5SgzyuTSFPuc7o7"> Link</a>
 
+**Attendance Form:** <a href="https://forms.gle/ZdzikyZ8cbwQ4HXE8"> Link</a>
+
 <table id="timeline">
     <tbody><tr>
       <th style="width: 10%;">Week</th>
