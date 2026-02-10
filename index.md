@@ -68,7 +68,12 @@ seo:
         <strong>Week 3</strong> <br> 
         Feb 16 Presidents Day
     </td>
-    
+    <td style="font-weight: 600;">
+    </td>
+    <td style="text-align: left; line-height: 30px;">
+    </td>
+    <td style="line-height: 30px;">
+    </td>
 </tr>
 <tr>
     <td>
