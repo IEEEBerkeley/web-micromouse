@@ -22,8 +22,6 @@ seo:
 
 **Staff Application:** <a href="https://forms.gle/fY5SgzyuTSFPuc7o7"> Link</a>
 
-**Attendance Form:** <a href="https://forms.gle/ZdzikyZ8cbwQ4HXE8"> Link</a>
-
 <table id="timeline">
     <tbody><tr>
       <th style="width: 10%;">Week</th>
@@ -68,19 +66,7 @@ seo:
 <tr>
     <td>
         <strong>Week 3</strong> <br> 
-        Feb 16 Presidents Day
-    </td>
-    <td style="font-weight: 600;">
-    </td>
-    <td style="text-align: left; line-height: 30px;">
-    </td>
-    <td style="line-height: 30px;">
-    </td>
-</tr>
-<tr>
-    <td>
-        <strong>Week 4</strong> <br> 
-        Feb 23
+        Feb 16
     </td>
     <td style="font-weight: 600;">
         Lab 2: Assembly (Through Hole Components)
@@ -96,11 +82,25 @@ seo:
 </tr>
 <tr>
     <td>
+        <strong>Week 4</strong> <br> 
+        Feb 23
+    </td>
+    <td style="font-weight: 600;">
+        Lab Check Off #1 (Assembly)
+    </td>
+    <td style="text-align: left; line-height: 30px;">
+         We’ll use this day to finish assembly or any other bumps in the road we may encounter
+    </td>
+    <td style="line-height: 30px;">
+    </td>
+</tr>
+<tr>
+    <td>
         <strong>Week 5</strong> <br> 
         March 2
     </td>
     <td style="font-weight: 600;">
-          Lab 3: Encoders
+        Lab 3: Encoders
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Hall effect sensors<br>
@@ -109,7 +109,7 @@ seo:
     </td>
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab3.md">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1jqL9NDWeDyymqLbL5G3cdjnyh5SPceshRESbhUDShEs/edit?usp=sharing">Slides</ a> <br>
+        <a href="https://docs.google.com/presentation/d/1jqL9NDWeDyymqLbL5G3cdjnyh5SPceshRESbhUDShEs/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ seo:
         March 9
     </td>
     <td style="font-weight: 600;">
-         Lab 4: IR Sensors
+        Lab 4: IR Sensors
     </td>
     <td style="text-align: left; line-height: 30px;">
         • ADC readings <br>
@@ -136,11 +136,10 @@ seo:
         March 16
     </td>
     <td style="font-weight: 600;">
-         Lab 5: Motor Control
+        Lab Check Off #2 (Encoders / IR Sensors)
     </td>
     <td style="text-align: left; line-height: 30px;">
-         • Linear and angular distance
-         • Spin those motors
+         Work & Check off day
     </td>
     <td style="line-height: 30px;">
     </td>
@@ -151,11 +150,15 @@ seo:
         March 23
     </td>
     <td style="font-weight: 600;">
-         Spring Break
+        Lab 5: Motor Control
     </td>
     <td style="text-align: left; line-height: 30px;">
+        • Linear and angular distance <br>
+        • Spin those motors
     </td>
     <td style="line-height: 30px;">
+        <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab5.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/1OratanlcQN2Y8AOR1kyuvIxo5AuuJmuoRlEvZ5X6LIg/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
 <tr>
@@ -180,10 +183,10 @@ seo:
         April 6
     </td>
     <td style="font-weight: 600;">
-         Lab 7: More PID
+        Lab 7: More PID
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • The rest of PID
+        • The rest of PID <br>
         • Wall following and turning
     </td>
     <td style="line-height: 30px;">
@@ -201,7 +204,7 @@ seo:
         Lab Checkoff #3: Odometry / PID Labs
     </td>
     <td style="text-align: left; line-height: 30px;">
-        • Finish PID 
+        • Finish PID
         • Start maze solving / experimenting with your mouse.
     </td>
     <td style="line-height: 30px;">
@@ -216,10 +219,11 @@ seo:
         April 20
     </td>
     <td style="font-weight: 600;">
-        Lab 8 Tentative
+        (Optional: Work session)  
     </td>
     <td style="text-align: left; line-height: 30px;">
     </td>
+        🍂 Happy Thanksgiving week 🍂
     <td style="line-height: 30px;">
     </td>
 </tr>
