@@ -18,9 +18,9 @@ seo:
 <br>
 **GitHub Link (Labs):** <a href="https://github.com/charlessu800/MMv3/blob/main/docs/sanity.md"> Link </a>
 
-**INTEREST FORM:** <a href="https://forms.gle/GN33aFUJCPSJmS6M8"> Link</a>
+<!-- **INTEREST FORM:** <a href="https://forms.gle/GN33aFUJCPSJmS6M8"> Link</a> -->
 
-**Staff Application:** <a href="https://forms.gle/fY5SgzyuTSFPuc7o7"> Link</a>
+<!-- **Staff Application:** <a href="https://forms.gle/fY5SgzyuTSFPuc7o7"> Link</a> -->
 
 <table id="timeline">
     <tbody><tr>
@@ -69,6 +69,19 @@ seo:
         Feb 16
     </td>
     <td style="font-weight: 600;">
+        Presidents' Day
+    </td>
+    <td style="text-align: left; line-height: 30px;">
+    </td>
+    <td style="line-height: 30px;">
+    </td>
+</tr>
+<tr>
+    <td>
+        <strong>Week 4</strong> <br> 
+        Feb 23
+    </td>
+    <td style="font-weight: 600;">
         Lab 2: Assembly (Through Hole Components)
     </td>
     <td style="text-align: left; line-height: 30px;">
@@ -78,20 +91,6 @@ seo:
     <td style="line-height: 30px;">
         <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab2.md">Lab Doc</a> <br>
         <a href="https://docs.google.com/presentation/d/18PcpWdjSsx5vSzpMiWOtZgXrEPLWzCcOO7Qxu4pJAfo/edit?usp=sharing">Slides</a> <br>
-    </td>
-</tr>
-<tr>
-    <td>
-        <strong>Week 4</strong> <br> 
-        Feb 23
-    </td>
-    <td style="font-weight: 600;">
-        Lab Check Off #1 (Assembly)
-    </td>
-    <td style="text-align: left; line-height: 30px;">
-         We’ll use this day to finish assembly or any other bumps in the road we may encounter
-    </td>
-    <td style="line-height: 30px;">
     </td>
 </tr>
 <tr>
@@ -118,6 +117,22 @@ seo:
         March 9
     </td>
     <td style="font-weight: 600;">
+        Lab Checkoff #1 (Assembly)
+    </td>
+    <td style="text-align: left; line-height: 30px;">
+        • Work day and check off
+    </td>
+    <td style="line-height: 30px;">
+        <!-- <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab3.md">Lab Doc</a> <br>
+        <a href="https://docs.google.com/presentation/d/1qcB8vDwQZrhrOTotBqM8QP01_uo_ydZUP_unEUFC7Kk/edit?usp=sharing">Slides</a> <br> -->
+    </td>
+</tr>
+<tr>
+    <td>
+        <strong>Week 7</strong> <br> 
+        March 16
+    </td>
+    <td style="font-weight: 600;">
         Lab 4: IR Sensors
     </td>
     <td style="text-align: left; line-height: 30px;">
@@ -132,22 +147,21 @@ seo:
 
 <tr>
     <td>
-        <strong>Week 7</strong> <br> 
-        March 16
+        <strong>Week 8</strong> <br> 
+        March 23
     </td>
     <td style="font-weight: 600;">
-        Lab Check Off #2 (Encoders / IR Sensors)
+        🌸 Spring Break! 🌸
     </td>
     <td style="text-align: left; line-height: 30px;">
-         Work & Check off day
     </td>
     <td style="line-height: 30px;">
     </td>
 </tr>
 <tr>
     <td>
-        <strong>Week 8</strong> <br> 
-        March 23
+        <strong>Week 9</strong> <br> 
+        March 30
     </td>
     <td style="font-weight: 600;">
         Lab 5: Motor Control
@@ -163,8 +177,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 9</strong> <br> 
-        March 30
+        <strong>Week 10</strong> <br> 
+        April 6
     </td>
     <td style="font-weight: 600;">
         Lab 6: Intro to PID
@@ -179,8 +193,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 10</strong> <br> 
-        April 6
+        <strong>Week 11</strong> <br> 
+        April 13
     </td>
     <td style="font-weight: 600;">
         Lab 7: More PID
@@ -197,8 +211,8 @@ seo:
 
 <tr>
     <td>
-        <strong>Week 11</strong> <br> 
-        April 13
+        <strong>Week 12</strong> <br> 
+        April 20
     </td>
     <td style="font-weight: 600;">
         Lab Checkoff #3: Odometry / PID Labs
@@ -213,20 +227,6 @@ seo:
     </td>
 </tr>
 
-<tr>
-    <td>
-        <strong>Week 12</strong> <br> 
-        April 20
-    </td>
-    <td style="font-weight: 600;">
-        (Optional: Work session)  
-    </td>
-    <td style="text-align: left; line-height: 30px;">
-    </td>
-        🍂 Happy Thanksgiving week 🍂
-    <td style="line-height: 30px;">
-    </td>
-</tr>
 <tr>
     <td>
         <strong>Week 13</strong> <br> 
