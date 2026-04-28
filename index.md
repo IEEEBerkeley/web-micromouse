@@ -244,19 +244,4 @@ seo:
         <a href="https://docs.google.com/presentation/d/1kpQOKmRSZPqaVDt8x-6KocQmcwZ5cRTsnoYlqbYguBQ/edit?usp=share_link&amp;ref=ieee.berkeley.edu">Slides</a> <br>
     </td>
 </tr>
-<tr>
-    <td>
-        <strong>Week 14</strong> <br> 
-        May 4
-    </td>
-    <td style="font-weight: 600;">
-        RRR Week -> 🧀 
-    </td>
-    <td style="text-align: left; line-height: 30px;">
-        TBD
-    </td>
-    <td style="line-height: 30px;">
-        Thank You ! &#x1F401;
-    </td>
-</tr>
 </tbody></table>
