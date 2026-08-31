@@ -20,7 +20,7 @@ seo:
 
 <!-- **INTEREST FORM:** <a href="https://forms.gle/GN33aFUJCPSJmS6M8"> Link</a> -->
 
-<!-- **Staff Application:** <a href="https://forms.gle/fY5SgzyuTSFPuc7o7"> Link</a> -->
+**Staff Application:** <a href="https://forms.gle/4WmobvHhFnFJWJTW7"> Link</a>
 
 <table id="timeline">
     <tbody><tr>
