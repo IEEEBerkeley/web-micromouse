@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Micromouse Spring 26
+title: Micromouse Fall 26
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -12,7 +12,7 @@ seo:
 
 {:.no_toc}
 
-**Staff:** Louie Labata, Isaiah Tapia, Charles Su, Sophia Quach, Zach Szeto 
+**Staff:** Sophia Quach, Isaiah Tapia, Alex Nava, Caden Charles Kelly, Hassan Naboulsi, Amy Wang 
 <br>
 **Lecture:** Monday 8-10 pm, Cory 125
 <br>
@@ -32,7 +32,7 @@ seo:
 <tr>
     <td>
         <strong>Week 1</strong> <br> 
-        Feb 2
+        Sept 14
     </td>
     <td style="font-weight: 600;">
         Introduction to Micromouse
@@ -49,7 +49,7 @@ seo:
 <tr>
     <td>
         <strong> Week 2</strong> <br> 
-         Feb 9
+         Sept 21
     </td>
     <td style="font-weight: 600;">
         Lab 1: Assembly (SMD)
@@ -66,20 +66,7 @@ seo:
 <tr>
     <td>
         <strong>Week 3</strong> <br> 
-        Feb 16
-    </td>
-    <td style="font-weight: 600;">
-        Presidents' Day
-    </td>
-    <td style="text-align: left; line-height: 30px;">
-    </td>
-    <td style="line-height: 30px;">
-    </td>
-</tr>
-<tr>
-    <td>
-        <strong>Week 4</strong> <br> 
-        Feb 23
+        Sept 28
     </td>
     <td style="font-weight: 600;">
         Lab 2: Assembly (Through Hole Components)
@@ -95,8 +82,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 5</strong> <br> 
-        March 2
+        <strong>Week 4</strong> <br> 
+        Oct 5
     </td>
     <td style="font-weight: 600;">
         Lab 3: Encoders
@@ -113,8 +100,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 6</strong> <br> 
-        March 9
+        <strong>Week 5</strong> <br> 
+        Oct 12
     </td>
     <td style="font-weight: 600;">
         Lab Checkoff #1 (Assembly)
@@ -123,14 +110,12 @@ seo:
         • Work day and check off
     </td>
     <td style="line-height: 30px;">
-        <!-- <a href="https://github.com/charlessu800/MMv3/blob/main/docs/lab3.md">Lab Doc</a> <br>
-        <a href="https://docs.google.com/presentation/d/1qcB8vDwQZrhrOTotBqM8QP01_uo_ydZUP_unEUFC7Kk/edit?usp=sharing">Slides</a> <br> -->
     </td>
 </tr>
 <tr>
     <td>
-        <strong>Week 7</strong> <br> 
-        March 16
+        <strong>Week 6</strong> <br> 
+        Oct 19
     </td>
     <td style="font-weight: 600;">
         Lab 4: IR Sensors
@@ -144,24 +129,10 @@ seo:
         <a href="https://docs.google.com/presentation/d/1qcB8vDwQZrhrOTotBqM8QP01_uo_ydZUP_unEUFC7Kk/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
-
 <tr>
     <td>
-        <strong>Week 8</strong> <br> 
-        March 23
-    </td>
-    <td style="font-weight: 600;">
-        🌸 Spring Break! 🌸
-    </td>
-    <td style="text-align: left; line-height: 30px;">
-    </td>
-    <td style="line-height: 30px;">
-    </td>
-</tr>
-<tr>
-    <td>
-        <strong>Week 9</strong> <br> 
-        March 30
+        <strong>Week 7</strong> <br> 
+        Oct 26
     </td>
     <td style="font-weight: 600;">
         Lab 5: Motor Control
@@ -177,8 +148,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 10</strong> <br> 
-        April 6
+        <strong>Week 8</strong> <br> 
+        Nov 2
     </td>
     <td style="font-weight: 600;">
         Lab 6: Intro to PID
@@ -193,8 +164,8 @@ seo:
 </tr>
 <tr>
     <td>
-        <strong>Week 11</strong> <br> 
-        April 13
+        <strong>Week 9</strong> <br> 
+        Nov 9
     </td>
     <td style="font-weight: 600;">
         Lab 7: More PID
@@ -208,14 +179,13 @@ seo:
         <a href="https://docs.google.com/presentation/d/1QUD__i2f9JUdmt0zgGZVfsmHjdTC7a54VCtsY5zDebQ/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
-
 <tr>
     <td>
-        <strong>Week 12</strong> <br> 
-        April 20
+        <strong>Week 10</strong> <br> 
+        Nov 16
     </td>
     <td style="font-weight: 600;">
-        Lab Checkoff #3: Odometry / PID Labs
+        Lab Checkoff #2: Odometry / PID Labs
     </td>
     <td style="text-align: left; line-height: 30px;">
         • Finish PID
@@ -226,11 +196,10 @@ seo:
         <a href="https://docs.google.com/presentation/d/1QUD__i2f9JUdmt0zgGZVfsmHjdTC7a54VCtsY5zDebQ/edit?usp=sharing">Slides</a> <br>
     </td>
 </tr>
-
 <tr>
     <td>
-        <strong>Week 13</strong> <br> 
-        April 27
+        <strong>Week 11</strong> <br> 
+        Nov 23
     </td>
     <td style="font-weight: 600;">
         Mouse Check up

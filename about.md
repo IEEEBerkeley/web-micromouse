@@ -19,16 +19,61 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+The UC Berkeley IEEE Student Branch's Micromouse DeCal is a hands-on course for
+undergraduates with an interest in robotics. Teams of roughly two students build
+and program an autonomous, maze-solving robot that follows the standards set by
+IEEE's Micromouse competition.
+
+The course assumes no prior experience and has no formal prerequisites. Over the
+semester you will learn to solder — both through-hole and surface-mount — and to
+program a microcontroller in CircuitPython, applying those skills to a working
+autonomous mouse. Each group is provided a PCB and all necessary components free
+of charge.
+
+Questions? Reach us at
+[micromouse@ieee.berkeley.edu](mailto:micromouse@ieee.berkeley.edu), on the
+[Micromouse Discord](http://berkie.ee/micromouse-discord), or through any staff
+member listed on the [staff page]({{ site.baseurl }}/staff/).
 
 ## Lecture
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+We meet once a week for a two-hour session. The first 20–30 minutes are a primer
+on that week's content; the rest of the session is lab time, and the lab
+documentation expands on what was covered in the primer. Students are checked off
+by staff as they complete each lab.
+
+The first few sessions of the semester are spent assembling your mouse. After
+that we move on to programming, and programming labs can typically be finished
+within the two-hour session. You are welcome to take your mouse home if you want
+more time with it.
+
+We may also hold office hours or workshops depending on how the course is
+progressing. See the [home page]({{ site.baseurl }}/) for the week-by-week
+schedule.
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+- **Lab documentation** —
+  [MMv3 docs](https://github.com/charlessu800/MMv3/blob/main/docs/sanity.md),
+  which contain the full write-up for every lab.
+- **Slides** — linked per week on the [home page]({{ site.baseurl }}/).
+- **Discord** — [berkie.ee/micromouse-discord](http://berkie.ee/micromouse-discord),
+  the fastest way to get help between sessions.
+- **Berkeley IEEE** — [ieee.berkeley.edu](https://ieee.berkeley.edu).
 
 ## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+There are no exams. Your work in this course is the labs and the mouse itself:
+
+1. **Labs.** Each week's lab is checked off by a staff member during the
+   session. Assembly labs come first, followed by encoders, IR sensors, motor
+   control, and PID.
+2. **Checkoffs.** Two checkoff sessions serve as milestones — one after assembly
+   and one after the odometry and PID labs.
+3. **Final mouse.** At the end of the semester we check that you have either
+   finished your mouse or made satisfactory progress toward finishing it.
+
+Grading is pass / no pass and is determined primarily by attendance and lab
+checkoffs. DeCals are for your enjoyment, and you will get much more out of this
+one if you come to every session. If you have any questions about your standing,
+reach out to a staff member.
