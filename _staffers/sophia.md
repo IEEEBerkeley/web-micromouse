@@ -1,5 +1,5 @@
 ---
-name: Sophia Quach | Co-director
+name: Sophia Quach
 role: Instructor
 photo: sophia_q.jpg
 email:
