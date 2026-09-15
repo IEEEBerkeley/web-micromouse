@@ -1,6 +1,6 @@
 ---
 name: Zach Szeto 
 role: Instructor
-photo: placeholder.png
+photo: zach.jpeg
 email:
 ---

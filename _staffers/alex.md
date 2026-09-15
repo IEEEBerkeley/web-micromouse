@@ -1,7 +1,7 @@
 ---
 name: Alex Nava
 role: Instructor
-photo: placeholder.png
+photo: alexnava.jpg
 email:
 ---
 
